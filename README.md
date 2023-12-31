@@ -1,5 +1,5 @@
 
-# About
+#!About
 weworkapi_python 是为了简化开发者对企业微信API接口的使用而设计的，API调用库系列之python版本      
 本库仅做示范用，并不保证完全无bug；  
 作者会不定期更新本库，但不保证与官方API接口文档同步，因此一切以[官方文档](https://work.weixin.qq.com/api/doc)为准。
@@ -44,3 +44,4 @@ api.dosomething()
 abelzhu@tencent.com  
 
 # 
+ 
